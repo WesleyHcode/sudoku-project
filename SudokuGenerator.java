@@ -1,6 +1,3 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-
 public class SudokuGenerator {
     public void solve(int[][] board, int row, int col) {
         if (row == 9) {
